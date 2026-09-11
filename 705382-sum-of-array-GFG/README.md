@@ -9,5 +9,3 @@ Explanation: 1 + 2 + 3 + 4 = 10.
 Input: arr[] = [1, 3, 3]
 Output: 7
 Explanation:&nbsp;1 + 3 + 3 = 7.
-
-Constraints:1 &lt;= arr.size &lt;= 1051 &lt;= arr[i] &lt;= 104
